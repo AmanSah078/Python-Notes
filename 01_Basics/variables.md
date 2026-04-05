@@ -63,5 +63,14 @@ Age = 30     # different variables ✔
 
 
 
+---
+
+## 📘 Variables Notes
+
+Hey 👋  
+You can find the complete variables notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](var.pdf)
+
 
 
