@@ -1,4 +1,5 @@
 
+## 📘 Variables Notes
 
 Variable:
 - stores value in memory
@@ -65,7 +66,7 @@ Age = 30     # different variables ✔
 
 ---
 
-## 📘 Variables Notes
+## 📘 Variables Notes in PDF
 
 Hey 👋  
 You can find the complete variables notes in PDF format below 👇
