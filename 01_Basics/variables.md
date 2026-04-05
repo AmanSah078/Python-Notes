@@ -65,4 +65,3 @@ Age = 30     # different variables ✔
 
 
 
-<img width="837" height="1809" alt="image" src="https://github.com/user-attachments/assets/d02f6bc3-a43b-4e79-8032-40c82286ceae" />
