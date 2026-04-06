@@ -111,4 +111,4 @@ Important:
 
 Example:
 0o33 → 27
-![Uploading image.png…]()
+
