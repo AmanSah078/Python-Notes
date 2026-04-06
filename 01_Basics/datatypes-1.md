@@ -112,3 +112,12 @@ Important:
 Example:
 0o33 → 27
 
+
+
+## 📘 DataTypes Notes in PDF
+
+Hey 👋  
+You can find the complete DataTypes-1 Class notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](datatypes-1.pdf)
+
