@@ -60,3 +60,10 @@ print(a)  #NameError: name 'true' is not defined. Did you mean: 'True'?
 
 
 <img width="600" height="1913" alt="image" src="https://github.com/user-attachments/assets/42aca309-f7aa-4bdf-b0df-1b2a9ea0745d" />
+
+
+
+Hey 👋  
+You can find the complete DataTypes-2 Class notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](datatypes-2.pdf)
