@@ -56,3 +56,8 @@ s1          # 'Python' (console)
 Internally It store inside the ' ' To minimize The Memory Space
 
 <img width="548" height="1500" alt="image" src="https://github.com/user-attachments/assets/aaf7dabb-6024-489c-b5e4-5321623ef764" />
+
+Hey 👋  
+You can find the complete DataTypes-3 Class notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](datatypes-3.pdf)
