@@ -164,3 +164,12 @@ Notes: If index is out of range, Python adjusts it to valid range which is 0
 
 
 <img width="633" height="4219" alt="image" src="https://github.com/user-attachments/assets/5cfa7e47-16d9-49ca-9849-a515c9d59e32" />
+
+
+
+
+Hey 👋  
+You can find the complete DataTypes-4 Class notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](datatypes-4.pdf)
+
