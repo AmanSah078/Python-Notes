@@ -191,3 +191,11 @@ t = (1, 2, 3)
 - mutable → direct change possible
 - immutable → change means new object
 - strings are immutable (VERY IMPORTANT)
+
+
+
+Hey 👋  
+You can find the complete DataTypes-5 Class notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](datatypes-5.pdf)
+
