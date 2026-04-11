@@ -306,3 +306,9 @@ str():
 👉 str(10) → "10"
 👉 str(True) → "True"
 
+
+Hey 👋  
+You can find the complete DataTypes-6 Class notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](datatypes-6.pdf)
+
