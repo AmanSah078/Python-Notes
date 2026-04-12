@@ -97,6 +97,13 @@ Output → 6 5 4 3 2 1 0
 - begin must be greater than end
 - end still excluded
 
+- Hey 👋  
+You can find the complete DataTypes-7 Class notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](datatypes-7.pdf)
+
+
+
 
 
 
