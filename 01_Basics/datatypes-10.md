@@ -58,6 +58,12 @@ Student data:
 
 
 
+Hey 👋  
+You can find the complete DataTypes-10 Class notes in PDF format below 👇
+
+👉 [Click here to view/download Variables Notes](datatypes-10.pdf)
+
+
 
 
 
